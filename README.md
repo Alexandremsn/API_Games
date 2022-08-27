@@ -3,6 +3,7 @@ Uso de uma api para importação de uma base de dados realização de seu tratam
 
 Para este projeto usamos a API RAWG, acessível no link: http://rawg.io
 Esta API, possui um banco de dados de vários jogos, com seus dados, avaliações, status do jogos fornecidos por jogadores e diversas outras informações.
+Vamos focar na varível avaliação e genero, para verificarmos correlações e variações, se a preferência do público se alterou nos últimos 20 anos. podemos também ralizar inferências sobre os status dos jogos e número de votos o jogo recebeu.
 
 <img src=images/001.png>
 
@@ -23,15 +24,15 @@ Após verificar a primeira requisição para ter uma ideia do formado, verificam
 
 <img src=images/005.png>
 
-após aplicar um segundo laço nós desempacotamos cada linha e adicionados em um dataframe normalizado e tivemos este resultado, que já está mais amigável.
+Após aplicar um segundo laço nós desempacotamos cada linha e adicionados em um dataframe normalizado e tivemos este resultado, que já está mais amigável.
 
 <img src=images/006.png>
 
-
+Depois verificamos que o único dado que vamos utilzar que ainda presisaria ser desempacotado seria a coluna com o genero do jogo, assim criamos uma função para realizar o desempacotamento e guardar este dado em uma lista. depois selecionamos todas as colunas que vamos utilizar, e finalmente verificamos que o código rodou com sucesso.
 
 <img src=images/007.png>
 
-
+Na parte final do código, criamos uma tabela com id_jogo e genero, pois os jogos possuiem mais de um gênero ao mesmo tempo assim, podemos usar futuramente um join para fazer a relações entre as tabelas e acessar cada genero individualmente. Exportamos as tabelas em .CSV para uso em alguma validação, deopis por fim exportamos para um banco de dados MySQL.
 
 <img src=images/008.png>
 
