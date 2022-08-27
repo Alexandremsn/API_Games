@@ -36,9 +36,12 @@ Na parte final do código, criamos uma tabela com id_jogo e genero, pois os jogo
 
 <img src=images/008.png>
 
-
+Testamos com uma query simples para verifcar se as tabelas foram carregadas, e podemos ver as tabelas carregadas corretamente.
 
 <img src=images/009.png>
 
+Para a segunda tabela também tivemos sucesso.
 
 <img src=images/010.png>
+
+Na sequência construiremos visuais com criação de linha do tempo, filtros por genero, e ao longo desta contrução vamos verificar se conseguimos verificar outras relaçoes que agreguem valor e sejam utéis na contrução de outros visuais.
