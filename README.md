@@ -45,3 +45,51 @@ Para a segunda tabela também tivemos sucesso.
 <img src=images/010.png>
 
 Na sequência construiremos visuais com criação de linha do tempo, filtros por gênero, e ao longo desta construção verificaremos se conseguimos verificar outras relações que agreguem valor e sejam uteis na construção de outros visuais.
+
+Inciando a construção do Dashboard
+Foi feito o plano de fundo e definido a posição dos visuais
+
+<img src=images/011.png>
+
+No tableau importamos as tabelas e criamos o vínculo entre elas pela variável id
+
+<img src=images/012.png>
+
+Assim começamos montando as medidas que darão o somatório de cada status possível informado pelos usuários.
+
+<img src=images/013.png>
+
+Criamos o owned e configuramos a fonte e fundo do visual
+
+<img src=images/014.png>
+
+Depois repetimos os processos para os outros status e aplicamos no dashboard
+
+<img src=images/015.png>
+
+Criamos o gráfico com a evolução da avaliação por ano estratificada por gênero 
+
+<img src=images/016.png>
+
+Criamos os filtros e configuramos para aplicar a filtragem a todos os dados da mesma base 
+Posicionamos 
+
+<img src=images/017.png>
+
+Depois criamos uma tabela que detalha os mais bem avaliados dentro do filtro aplicado 
+
+<img src=images/018.png>
+
+criamos o último gráfico com a evolução de avaliações por tempo estratificada por gênero 
+
+<img src=images/019.png>
+
+Depois criamos um gráficos com o percentual de avaliações por gênero
+
+<img src=images/020.png>
+
+E ficamos com este resultado final
+Link:   
+
+
+<img src=images/021.png>
