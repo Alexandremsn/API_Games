@@ -91,7 +91,6 @@ Depois criamos um gráficos com o percentual de avaliações por gênero
 E ficamos com este resultado final
 Link: https://public.tableau.com/app/profile/alexandre.machado.da.silva.neto/viz/games2_16625096795530/viz?publish=yes
 
-
 <img src=images/022.png>
 
 Uma vizualização completa das avaliações podendo ser filtrada e comparar gêneros e períodos de tempo
