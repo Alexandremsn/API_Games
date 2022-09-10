@@ -49,47 +49,49 @@ Na sequência construiremos visuais com criação de linha do tempo, filtros por
 Inciando a construção do Dashboard
 Foi feito o plano de fundo e definido a posição dos visuais
 
-<img src=images/011.png>
+<img src=images/012.png>
 
 No tableau importamos as tabelas e criamos o vínculo entre elas pela variável id
 
-<img src=images/012.png>
+<img src=images/013.png>
 
 Assim começamos montando as medidas que darão o somatório de cada status possível informado pelos usuários.
 
-<img src=images/013.png>
+<img src=images/014.png>
 
 Criamos o owned e configuramos a fonte e fundo do visual
 
-<img src=images/014.png>
+<img src=images/015.png>
 
 Depois repetimos os processos para os outros status e aplicamos no dashboard
 
-<img src=images/015.png>
+<img src=images/016.png>
 
 Criamos o gráfico com a evolução da avaliação por ano estratificada por gênero 
 
-<img src=images/016.png>
+<img src=images/017.png>
 
 Criamos os filtros e configuramos para aplicar a filtragem a todos os dados da mesma base 
 Posicionamos 
 
-<img src=images/017.png>
+<img src=images/018.png>
 
 Depois criamos uma tabela que detalha os mais bem avaliados dentro do filtro aplicado 
 
-<img src=images/018.png>
-
-criamos o último gráfico com a evolução de avaliações por tempo estratificada por gênero 
-
 <img src=images/019.png>
 
-Depois criamos um gráficos com o percentual de avaliações por gênero
+Criamos o gráfico com a evolução de avaliações por tempo estratificada por gênero 
 
 <img src=images/020.png>
 
-E ficamos com este resultado final
-Link:   
-
+Depois criamos um gráficos com o percentual de avaliações por gênero
 
 <img src=images/021.png>
+
+E ficamos com este resultado final
+Link: https://public.tableau.com/app/profile/alexandre.machado.da.silva.neto/viz/games2_16625096795530/viz?publish=yes
+
+
+<img src=images/022.png>
+
+Uma vizualização completa das avaliações podendo ser filtrada e comparar gêneros e períodos de tempo
