@@ -94,3 +94,5 @@ Link: https://public.tableau.com/app/profile/alexandre.machado.da.silva.neto/viz
 <img src=images/022.png>
 
 Uma vizualização completa das avaliações podendo ser filtrada e comparar gêneros e períodos de tempo
+
+Futuramente, seria interessante, usar outras apis para incrementar os dados desta base de dados ou dados externos.
