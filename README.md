@@ -1,4 +1,12 @@
+<div align="center">
+
+<img src=images/logogames.png width="200" height="300">
+  
+ 
 # API_Games
+  
+<div align="left">
+  
 Uso de uma API para importação de uma base de dados, realização de seu tratamento, exportação para banco de dados MySQL, e criação de um Dashboard em Tableau
 
 Para este projeto usamos a API RAWG, acessível no link: http://rawg.io
