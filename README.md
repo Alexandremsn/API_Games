@@ -11,7 +11,7 @@ Uso de uma API para importação de uma base de dados, realização de seu trata
 
 Para este projeto usamos a API RAWG, acessível no link: http://rawg.io
 Esta API, possui um banco de dados de vários jogos, com seus dados, avaliações, status dos jogos fornecidos por jogadores e diversas outras informações.
-Focaremos na varíavel avaliação e gênero, para verificarmos correlações e variações, se a preferência do público se alterou nos últimos 20 anos. Podemos também realizar inferências sobre os status dos jogos e número de votos o jogo recebeu.
+Focaremos na variável avaliação e gênero, para verificarmos correlações e variações, se a preferência do público se alterou nos últimos 20 anos. Podemos também realizar inferências sobre os status dos jogos e número de votos o jogo recebeu.
 
 <img src=images/001.png>
 
